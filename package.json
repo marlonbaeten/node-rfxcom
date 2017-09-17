@@ -19,8 +19,8 @@
     "set-protocols": "./node_modules/.bin/set-protocols"
   },
   "bin": {
-    "find-rfxcom": ".bin/find-rfxcom.js",
-    "set-protocols": ".bin/set-protocols.js"
+    "find-rfxcom": "./bin/find-rfxcom.js",
+    "set-protocols": "./bin/set-protocols.js"
   },
     "repository": {
     "type": "git",
